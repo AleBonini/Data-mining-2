@@ -4,3 +4,5 @@ Prima della correlazione va fatta la normalizzazione.. prima del NN per le varia
 va fatto one hot encoding ecc..
 
 POTETE MODIFICARE?
+
+GESU' MAIALE... sander
