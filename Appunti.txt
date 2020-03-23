@@ -1,0 +1,4 @@
+Scriviamo qua le regolette che ci vengono in mente man mano che andiamo avanti.. spunti e cose tipo:
+
+Prima della correlazione va fatta la normalizzazione.. prima del NN per le variabili categoriche 
+va fatto one hot encoding ecc..
