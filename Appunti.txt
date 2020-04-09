@@ -5,4 +5,4 @@ va fatto one hot encoding ecc..
 
 POTETE MODIFICARE?
 
-GESU' MAIALE... sander
+sander: per i capire quando bisogna standardizzare/normalizzare ho trovato utile questo link: https://sebastianraschka.com/faq/docs/when-to-standardize.html
