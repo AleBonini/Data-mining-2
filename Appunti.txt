@@ -1,8 +1,3 @@
-Scriviamo qua le regolette che ci vengono in mente man mano che andiamo avanti.. spunti e cose tipo:
+1) sander: per i capire quando bisogna standardizzare/normalizzare ho trovato utile questo link: https://sebastianraschka.com/faq/docs/when-to-standardize.html
 
-Prima della correlazione va fatta la normalizzazione.. prima del NN per le variabili categoriche 
-va fatto one hot encoding ecc..
-
-POTETE MODIFICARE?
-
-sander: per i capire quando bisogna standardizzare/normalizzare ho trovato utile questo link: https://sebastianraschka.com/faq/docs/when-to-standardize.html
+2) bias-variance tradeoff: https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff
